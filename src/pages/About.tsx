@@ -17,7 +17,7 @@ const About = () => {
     { name: 'Aman Sharma', role: 'Frontend Developer', qid: '25030521' },
     { name: 'Prince Kumar', role: 'Backend Developer', qid: '25030313' },
     { name: 'Prateek Singh', role: 'UI/UX Designer', qid: '25030189' },
-    { name: 'Md Kaif Rehman', role: 'Backend Developer', qid: '25030045' },
+    { name: 'Md Kaif Rahman', role: 'Backend Developer', qid: '25030045' },
   ];
 
   const handleSubmit = (e: React.FormEvent) => {
