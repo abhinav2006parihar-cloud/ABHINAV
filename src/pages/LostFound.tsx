@@ -30,7 +30,7 @@ const LostFound = () => {
       location: 'Library - 2nd Floor',
       date: '2025-01-12',
       contact: 'Campus Reception: +91-9876543210',
-      image: 'https://images.pexels.com/photos/4021986/pexels-photo-4021986.jpeg',
+      image: 'https://raw.githubusercontent.com/abhinav2006parihar-cloud/image/refs/heads/main/water%20bottle1.jpeg',
     },
     {
       id: 2,
@@ -38,7 +38,7 @@ const LostFound = () => {
       location: 'Computer Lab - Block A',
       date: '2025-01-11',
       contact: 'Campus Reception: +91-9876543210',
-      image: 'https://images.pexels.com/photos/5905857/pexels-photo-5905857.jpeg',
+      image: 'https://raw.githubusercontent.com/abhinav2006parihar-cloud/image/refs/heads/main/sc.jpg',
     },
     {
       id: 3,
@@ -46,7 +46,7 @@ const LostFound = () => {
       location: 'Cafeteria',
       date: '2025-01-10',
       contact: 'Campus Reception: +91-9876543210',
-      image: 'https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg',
+      image: 'https://raw.githubusercontent.com/abhinav2006parihar-cloud/image/refs/heads/main/red%20bag1.jpeg',
     },
     {
       id: 4,
@@ -54,7 +54,7 @@ const LostFound = () => {
       location: 'Main Entrance',
       date: '2025-01-09',
       contact: 'Campus Reception: +91-9876543210',
-      image: 'https://images.pexels.com/photos/1499327/pexels-photo-1499327.jpeg',
+      image: 'https://raw.githubusercontent.com/abhinav2006parihar-cloud/image/refs/heads/main/black%20umbrella.jpeg',
     },
     {
       id: 5,
@@ -62,7 +62,7 @@ const LostFound = () => {
       location: 'Sports Complex',
       date: '2025-01-08',
       contact: 'Campus Reception: +91-9876543210',
-      image: 'https://images.pexels.com/photos/6457579/pexels-photo-6457579.jpeg',
+      image: 'https://raw.githubusercontent.com/abhinav2006parihar-cloud/image/refs/heads/main/id%20card.jpeg',
     },
   ]);
   const [successMessage, setSuccessMessage] = useState('');
